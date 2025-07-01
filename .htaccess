@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^login$ login.php [L]
+RewriteRule ^admin$ admin/index.php [L]
